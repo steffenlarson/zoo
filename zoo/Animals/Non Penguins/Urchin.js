@@ -1,4 +1,4 @@
-class Urchin {
+export default class Urchin {
     constructor(
         name = 'Urchin',
         color = 'Purple',
@@ -22,4 +22,3 @@ class Urchin {
     }
 }
 
-export default Urchin;

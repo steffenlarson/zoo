@@ -1,4 +1,4 @@
-class Salamander {
+export default class Salamander {
     constructor(
         name = 'Salamander',
         color = 'Red',
@@ -22,4 +22,3 @@ class Salamander {
     }
 }
 
-export default Salamander;

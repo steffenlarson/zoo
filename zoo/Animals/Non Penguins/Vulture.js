@@ -1,4 +1,4 @@
-class Vulture {
+export default class Vulture {
     constructor(
         name = 'Vulture',
         color = 'Black',
@@ -22,4 +22,3 @@ class Vulture {
     }
 }
 
-export default Vulture;

@@ -1,4 +1,4 @@
-class Narwhal {
+export default class Narwhal {
     constructor(
         name = 'Narwhal',
         color = 'Gray',
@@ -22,4 +22,3 @@ class Narwhal {
     }
 }
 
-export default Narwhal;

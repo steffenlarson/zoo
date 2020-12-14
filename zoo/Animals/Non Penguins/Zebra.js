@@ -1,4 +1,4 @@
-class Zebra {
+export default class Zebra {
     constructor(
         name = 'Zebra',
         color = 'Black and White',
@@ -22,4 +22,3 @@ class Zebra {
     }
 }
 
-export default Zebra;

@@ -1,4 +1,4 @@
-class Lemming {
+export default class Lemming {
     constructor(
         name = 'Lemming',
         color = 'Orange and White',
@@ -22,4 +22,3 @@ class Lemming {
     }
 }
 
-export default Lemming;

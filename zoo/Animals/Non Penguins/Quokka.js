@@ -1,4 +1,4 @@
-class Quokka {
+export default class Quokka {
     constructor(
         name = 'Quokka',
         color = 'Brown',
@@ -22,4 +22,3 @@ class Quokka {
     }
 }
 
-export default Quokka;

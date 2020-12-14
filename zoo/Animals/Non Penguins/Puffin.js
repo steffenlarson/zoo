@@ -1,4 +1,4 @@
-class Puffin {
+export default class Puffin {
     constructor(
         name = 'Puffin',
         color = 'Black',
@@ -22,4 +22,3 @@ class Puffin {
     }
 }
 
-export default Puffin;

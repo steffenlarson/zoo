@@ -1,4 +1,4 @@
-class Ibis {
+export default class Ibis {
     constructor(
         name = 'Ibis',
         color = 'White',
@@ -22,4 +22,3 @@ class Ibis {
     }
 }
 
-export default Ibis;

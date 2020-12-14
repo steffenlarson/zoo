@@ -1,4 +1,4 @@
-class Orca {
+export default class Orca {
     constructor(
         name = 'Orca',
         color = 'Black and White',
@@ -22,4 +22,3 @@ class Orca {
     }
 }
 
-export default Orca;

@@ -1,4 +1,4 @@
-class Walrus {
+export default class Walrus {
     constructor(
         name = 'Walrus',
         color = 'Tan',
@@ -22,4 +22,3 @@ class Walrus {
     }
 }
 
-export default Walrus;

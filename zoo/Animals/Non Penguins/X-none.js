@@ -1,4 +1,4 @@
-class NoX {
+export default class NoX {
     constructor(
         name = 'NoX',
         color = 'None',
@@ -22,4 +22,3 @@ class NoX {
     }
 }
 
-export default NoX;

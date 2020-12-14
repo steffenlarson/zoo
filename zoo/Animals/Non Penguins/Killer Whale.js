@@ -1,4 +1,4 @@
-class KillerWhale {
+export default class KillerWhale {
     constructor(
         name = 'Killer Whale',
         color = 'Black and White',
@@ -22,4 +22,3 @@ class KillerWhale {
     }
 }
 
-export default KillerWhale;

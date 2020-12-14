@@ -1,4 +1,4 @@
-class TazmanianDevil {
+export default class TazmanianDevil {
     constructor(
         name = 'Tazmanian Devil',
         color = 'Brown',
@@ -22,4 +22,3 @@ class TazmanianDevil {
     }
 }
 
-export default TazmanianDevil;

@@ -1,4 +1,4 @@
-class Jaguar {
+export default class Jaguar {
     constructor(
         name = 'Jaguar',
         color = 'Black',
@@ -22,4 +22,3 @@ class Jaguar {
     }
 }
 
-export default Jaguar;

@@ -1,4 +1,4 @@
-class Yak {
+export default class Yak {
     constructor(
         name = 'Yak',
         color = 'Brown',
@@ -22,4 +22,3 @@ class Yak {
     }
 }
 
-export default Yak;

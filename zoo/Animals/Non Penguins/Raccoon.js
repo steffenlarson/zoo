@@ -1,4 +1,4 @@
-class Raccoon {
+export default class Raccoon {
     constructor(
         name = 'Raccoon',
         color = 'Black and Gray',
@@ -22,4 +22,3 @@ class Raccoon {
     }
 }
 
-export default Raccoon;

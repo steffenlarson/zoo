@@ -1,4 +1,4 @@
-class Fox {
+export default class Fox {
     constructor(
         name = 'Fox',
         color = 'White',
@@ -22,4 +22,3 @@ class Fox {
     }
 }
 
-export default Fox;
