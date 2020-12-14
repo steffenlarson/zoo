@@ -1,4 +1,4 @@
-class Macaroni {
+export default class Macaroni {
     constructor(
         name = 'Macaroni',
         color = 'Yellow',
@@ -22,4 +22,3 @@ class Macaroni {
     }
 }
 
-export default Macaroni;

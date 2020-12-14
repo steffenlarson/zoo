@@ -1,4 +1,4 @@
-class Emperor {
+export default class Emperor {
     constructor(
         name = 'Emperor',
         color = 'Black and White',
@@ -22,4 +22,3 @@ class Emperor {
     }
 }
 
-export default Emperor;

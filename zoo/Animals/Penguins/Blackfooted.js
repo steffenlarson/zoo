@@ -1,4 +1,4 @@
-class Blackfooted {
+export default class Blackfooted {
     constructor(
         name = 'Blackfooted',
         color = 'Black',
@@ -22,4 +22,3 @@ class Blackfooted {
     }
 }
 
-export default Blackfooted;

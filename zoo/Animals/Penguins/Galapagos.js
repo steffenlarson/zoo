@@ -1,4 +1,4 @@
-class Galapagos {
+export default class Galapagos {
     constructor(
         name = 'Galapagos',
         color = 'White',
@@ -22,4 +22,3 @@ class Galapagos {
     }
 }
 
-export default Galapagos;

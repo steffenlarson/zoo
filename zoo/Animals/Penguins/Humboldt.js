@@ -1,4 +1,4 @@
-class Humboldt {
+export default class Humboldt {
     constructor(
         name = 'Humboldt',
         color = 'Black',
@@ -22,4 +22,3 @@ class Humboldt {
     }
 }
 
-export default Humboldt;

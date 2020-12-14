@@ -1,4 +1,4 @@
-class Adelie {
+export default class Adelie {
     constructor(
         name = 'Adelie',
         color = 'Black and White',
@@ -22,4 +22,3 @@ class Adelie {
     }
 }
 
-export default Adelie;

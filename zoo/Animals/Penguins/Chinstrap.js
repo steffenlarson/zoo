@@ -1,4 +1,4 @@
-class Chinstrap {
+export default class Chinstrap {
     constructor(
         name = 'Chinstrap',
         color = 'Black and White',
@@ -22,4 +22,3 @@ class Chinstrap {
     }
 }
 
-export default Chinstrap;
