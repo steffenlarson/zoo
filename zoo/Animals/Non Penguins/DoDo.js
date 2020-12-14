@@ -1,4 +1,4 @@
-class DoDo {
+export default class DoDo {
     constructor(
         name = 'DoDo',
         color = 'Brown',
@@ -22,4 +22,3 @@ class DoDo {
     }
 }
 
-export default DoDo;
